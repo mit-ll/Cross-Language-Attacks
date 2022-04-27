@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+PackageName: Cross-Language Attacks
+PackageHomePage: https://github.com/mit-ll/cross-language-attacks/
+PackageOriginator: MIT Lincoln Laboratory
+PackageCopyrightText:2021 Massachusetts Institute of Technology
+PackageLicenseDeclared: MIT
